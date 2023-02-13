@@ -1,0 +1,28 @@
+/* inline css */
+body{
+    background-color: #eeefd0;
+}
+p{
+    color:rgba(153, 1, 64, 0.973); font: size 12px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray ;
+    border-width: 5px;
+    width: 60%;
+}
+
+img{
+    background-color: rgb(212, 225, 165);
+}
+.mushroom{
+    background-color: rgb(33, 137, 127);
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: rgb(8, 158, 100);
+    font-style: italic;
+}
